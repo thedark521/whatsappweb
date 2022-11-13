@@ -1,1 +1,1 @@
-# whatsappweb
+# whatsapp-web.js
